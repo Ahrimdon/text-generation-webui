@@ -1,0 +1,12 @@
+diff --git a/requirements.txt b/requirements.txt
+index 37df488..a26d10e 100644
+--- a/requirements.txt
++++ b/requirements.txt
+@@ -22,6 +22,7 @@ tensorboard
+ transformers==4.36.*
+ tqdm
+ wandb
++jinja2==3.1.2
+ 
+ # bitsandbytes
+ bitsandbytes==0.41.1; platform_system != "Windows"

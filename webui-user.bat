@@ -1,0 +1,1 @@
+python server.py --listen --listen-host "0.0.0.0" --listen-port "7860" --api --api-port "7861" --verbose --trust-remote-code --character "Assistant" --auto-devices --chat-buttons --tensorcores --numa --model-dir "E:\AI" --loader "ExLlamav2_HF" --model "Mixtral-8x7B-Instruct-v0.1-GPTQ"
